@@ -14,9 +14,9 @@
 
 <head>
     <meta charset="utf-8">
-    <title>首页_杨青个人博客 - 一个站在web前端设计之路的女技术员个人博客网站</title>
-    <meta name="keywords" content="个人博客,杨青个人博客,个人博客模板,杨青"/>
-    <meta name="description" content="杨青个人博客，是一个站在web前端设计之路的女程序员个人网站，提供个人博客模板免费资源下载的个人原创网站。"/>
+    <title>首页_个人博客</title>
+    <meta name="keywords" content="个人博客"/>
+    <meta name="description" content="个人博客，"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="<%=basePath%>static/css/base.css" rel="stylesheet">
     <link href="<%=basePath%>static/css/index.css" rel="stylesheet">
@@ -95,9 +95,9 @@
     <div class="sidebar">
         <div class="about">
             <div class="avatar"><img src="<%=basePath%>/static/image/avatar.jpg" alt=""></div>
-            <p class="abname">dancesmile | 杨青</p>
-            <p class="abposition">Web前端设计师、网页设计</p>
-            <div class="abtext"> 一个80后草根女站长！09年入行。一直潜心研究web前端技术，一边工作一边积累经验，分享一些个人博客模板，以及SEO优化等心得。</div>
+            <p class="abname">dancesmile | whyzaa</p>
+            <p class="abposition">Java开发工程师</p>
+            <div class="abtext"> xxxxxxxxxxxxxxxxxxx</div>
         </div>
         <div class="search">
             <form action="" method="post" name="searchform" id="searchform">
